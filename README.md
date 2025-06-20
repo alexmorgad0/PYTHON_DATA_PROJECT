@@ -131,7 +131,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the EU](5_Project\images\trending_top_skills_EU_2023.png)  
+![Trending Top Skills for Data Analysts in the EU](5_Project/images/trending_top_skills_EU_2023.png)  
 *Bar graph visualizing the trending top skills for data analysts in the EU in 2023.*
 
 ### Insights:
@@ -162,7 +162,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the EU](5_Project\images\salary_distribution_of_data_jobs_eu.png)  
+![Salary Distributions of Data Jobs in the EU](5_Project/images/salary_distribution_of_data_jobs_eu.png)  
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -200,7 +200,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the EU:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the EU](5_Project\images\highest_paid_skills_eu.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the EU](5_Project/images/highest_paid_skills_eu.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the EU.*
 
 #### Insights:
@@ -229,7 +229,7 @@ plt.show()
 ```
 #### Results
 
-![Most Optimal Skills for Data Analysts in the EU](5_Project\images\optimal_basic.png)    
+![Most Optimal Skills for Data Analysts in the EU](5_Project/images/optimal_basic.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the EU.*
 
 #### Insights:
@@ -266,7 +266,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the EU with Coloring by Technology](5_Project\images\optimal_skills_EU.png)  
+![Most Optimal Skills for Data Analysts in the EU with Coloring by Technology](5_Project/images/optimal_skills_EU.png)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the EU with color labels for technology.*
 
 #### Insights:
